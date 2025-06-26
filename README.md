@@ -1,9 +1,10 @@
-# Obsidian / Quartz / GitHub Pages Template
+# Dad's Thoughts Blog
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+Welcome to the source code of my blog. All the writing for this is originall written in markdown. I've been using Obsidian for years at this point, and really appreciate the fact that it doesn't lock you into a file format, as I've jumped back and forth between Windows, MacOS, and Linux a lot over the last 10 years, and markdown works across all them. It does have it's short comings, so I have found myself utilizing other edits, like PyCharm and Visual studio code for some actual writing tasks as well as Obsidian. 
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
+For years now, I've been wanting to actually publish a blog where I write about different games that I think that children should be playing. As dad who plays video games, I understand first hand what I want my kids engaging with and what I don't think they should be interacting with. For a deeper discussion on that topic, go check out the entry titled [Reason for this blog](https://ty-whit.github.io/dads-thoughts/Kids-Reviews/Motivation). 
 
+While that was the original motivation for wanting to actually start posting things on the internet, I realized at about the same time that I wanted to be creating more positive content around masculinity and parenting. I was also finding videos talking about the indie we and making cases for making your own website. That's what this has ended up turning into. Instead of trying to sign up for something like [Neocities](https://neocities.org/), I figured I'd just go ahead and do the same thing using GitHub Pages, where I could use git and all the other processes that I'm already used to with work. Deciding 
 ## Basic setup
 
 Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
